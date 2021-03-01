@@ -1,0 +1,8 @@
+name: Hdestroyer
+main: com.Hdestroyer.plugin.HdestroyerMain
+version: 1.1.2
+author: XZH
+commands:
+  Hdestroyer:
+    description: "§a给予自己一块圈地工具"
+    usage: /Hdestroyer tool
